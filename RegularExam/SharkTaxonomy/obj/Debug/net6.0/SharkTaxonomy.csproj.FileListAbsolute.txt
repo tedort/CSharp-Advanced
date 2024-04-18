@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\SharkTaxonomy\bin\Debug\net6.0\SharkTaxonomy.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\SharkTaxonomy\bin\Debug\net6.0\SharkTaxonomy.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\SharkTaxonomy\bin\Debug\net6.0\SharkTaxonomy.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\SharkTaxonomy\bin\Debug\net6.0\SharkTaxonomy.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\SharkTaxonomy\bin\Debug\net6.0\SharkTaxonomy.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\SharkTaxonomy\obj\Debug\net6.0\refint\SharkTaxonomy.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\SharkTaxonomy\obj\Debug\net6.0\SharkTaxonomy.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\SharkTaxonomy\obj\Debug\net6.0\ref\SharkTaxonomy.dll

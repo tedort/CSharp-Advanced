@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\Advanced\\07.StackAndQueueWorkshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEDBB97-B5C3-42D2-932F-73D9E578EBE7}|ImplementingStackAndQueue\\ImplementingStackAndQueue.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\advanced\\07.stackandqueueworkshop\\implementingstackandqueue\\customstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEDBB97-B5C3-42D2-932F-73D9E578EBE7}|ImplementingStackAndQueue\\ImplementingStackAndQueue.csproj|solutionrelative:implementingstackandqueue\\customstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEDBB97-B5C3-42D2-932F-73D9E578EBE7}|ImplementingStackAndQueue\\ImplementingStackAndQueue.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\advanced\\07.stackandqueueworkshop\\implementingstackandqueue\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEDBB97-B5C3-42D2-932F-73D9E578EBE7}|ImplementingStackAndQueue\\ImplementingStackAndQueue.csproj|solutionrelative:implementingstackandqueue\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEDBB97-B5C3-42D2-932F-73D9E578EBE7}|ImplementingStackAndQueue\\ImplementingStackAndQueue.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\advanced\\07.stackandqueueworkshop\\implementingstackandqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEDBB97-B5C3-42D2-932F-73D9E578EBE7}|ImplementingStackAndQueue\\ImplementingStackAndQueue.csproj|solutionrelative:implementingstackandqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEDBB97-B5C3-42D2-932F-73D9E578EBE7}|ImplementingStackAndQueue\\ImplementingStackAndQueue.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\advanced\\07.stackandqueueworkshop\\implementingstackandqueue\\customqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEDBB97-B5C3-42D2-932F-73D9E578EBE7}|ImplementingStackAndQueue\\ImplementingStackAndQueue.csproj|solutionrelative:implementingstackandqueue\\customqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomQueue.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\Advanced\\07.StackAndQueueWorkshop\\ImplementingStackAndQueue\\CustomQueue.cs",
+              "RelativeDocumentMoniker": "ImplementingStackAndQueue\\CustomQueue.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\Advanced\\07.StackAndQueueWorkshop\\ImplementingStackAndQueue\\CustomQueue.cs",
+              "RelativeToolTip": "ImplementingStackAndQueue\\CustomQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T16:12:05.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomStack.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\Advanced\\07.StackAndQueueWorkshop\\ImplementingStackAndQueue\\CustomStack.cs",
+              "RelativeDocumentMoniker": "ImplementingStackAndQueue\\CustomStack.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\Advanced\\07.StackAndQueueWorkshop\\ImplementingStackAndQueue\\CustomStack.cs",
+              "RelativeToolTip": "ImplementingStackAndQueue\\CustomStack.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAA7wEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T15:39:07.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomList.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\Advanced\\07.StackAndQueueWorkshop\\ImplementingStackAndQueue\\CustomList.cs",
+              "RelativeDocumentMoniker": "ImplementingStackAndQueue\\CustomList.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\Advanced\\07.StackAndQueueWorkshop\\ImplementingStackAndQueue\\CustomList.cs",
+              "RelativeToolTip": "ImplementingStackAndQueue\\CustomList.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAmwJQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T16:07:08.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\Advanced\\07.StackAndQueueWorkshop\\ImplementingStackAndQueue\\Program.cs",
+              "RelativeDocumentMoniker": "ImplementingStackAndQueue\\Program.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\Advanced\\07.StackAndQueueWorkshop\\ImplementingStackAndQueue\\Program.cs",
+              "RelativeToolTip": "ImplementingStackAndQueue\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T16:06:12.653Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

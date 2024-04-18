@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\RegularExam\02.ClearSkies\bin\Debug\net6.0\02.ClearSkies.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\RegularExam\02.ClearSkies\bin\Debug\net6.0\02.ClearSkies.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\RegularExam\02.ClearSkies\bin\Debug\net6.0\02.ClearSkies.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\RegularExam\02.ClearSkies\bin\Debug\net6.0\02.ClearSkies.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\RegularExam\02.ClearSkies\bin\Debug\net6.0\02.ClearSkies.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\RegularExam\02.ClearSkies\obj\Debug\net6.0\02.ClearSkies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\RegularExam\02.ClearSkies\obj\Debug\net6.0\02.ClearSkies.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\RegularExam\02.ClearSkies\obj\Debug\net6.0\02.ClearSkies.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\RegularExam\02.ClearSkies\obj\Debug\net6.0\02.ClearSkies.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\RegularExam\02.ClearSkies\obj\Debug\net6.0\02.ClearSkies.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\RegularExam\02.ClearSkies\obj\Debug\net6.0\refint\02.ClearSkies.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\RegularExam\02.ClearSkies\obj\Debug\net6.0\02.ClearSkies.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\RegularExam\02.ClearSkies\obj\Debug\net6.0\02.ClearSkies.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\RegularExam\02.ClearSkies\obj\Debug\net6.0\ref\02.ClearSkies.dll

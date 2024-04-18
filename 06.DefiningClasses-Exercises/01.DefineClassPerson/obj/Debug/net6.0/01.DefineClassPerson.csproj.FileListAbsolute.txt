@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\06.DefiningClasses-Exercises\01.DefineClassPerson\bin\Debug\net6.0\01.DefineClassPerson.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\06.DefiningClasses-Exercises\01.DefineClassPerson\bin\Debug\net6.0\01.DefineClassPerson.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\06.DefiningClasses-Exercises\01.DefineClassPerson\bin\Debug\net6.0\01.DefineClassPerson.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\06.DefiningClasses-Exercises\01.DefineClassPerson\bin\Debug\net6.0\01.DefineClassPerson.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\06.DefiningClasses-Exercises\01.DefineClassPerson\bin\Debug\net6.0\01.DefineClassPerson.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\06.DefiningClasses-Exercises\01.DefineClassPerson\obj\Debug\net6.0\01.DefineClassPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\06.DefiningClasses-Exercises\01.DefineClassPerson\obj\Debug\net6.0\01.DefineClassPerson.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\06.DefiningClasses-Exercises\01.DefineClassPerson\obj\Debug\net6.0\01.DefineClassPerson.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\06.DefiningClasses-Exercises\01.DefineClassPerson\obj\Debug\net6.0\01.DefineClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\06.DefiningClasses-Exercises\01.DefineClassPerson\obj\Debug\net6.0\01.DefineClassPerson.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\06.DefiningClasses-Exercises\01.DefineClassPerson\obj\Debug\net6.0\refint\01.DefineClassPerson.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\06.DefiningClasses-Exercises\01.DefineClassPerson\obj\Debug\net6.0\01.DefineClassPerson.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\06.DefiningClasses-Exercises\01.DefineClassPerson\obj\Debug\net6.0\01.DefineClassPerson.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\06.DefiningClasses-Exercises\01.DefineClassPerson\obj\Debug\net6.0\ref\01.DefineClassPerson.dll

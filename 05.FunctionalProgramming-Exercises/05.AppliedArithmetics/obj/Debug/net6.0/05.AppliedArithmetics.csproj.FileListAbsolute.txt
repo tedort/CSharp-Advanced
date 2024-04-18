@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\05.AppliedArithmetics\bin\Debug\net6.0\05.AppliedArithmetics.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\05.AppliedArithmetics\bin\Debug\net6.0\05.AppliedArithmetics.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\05.AppliedArithmetics\bin\Debug\net6.0\05.AppliedArithmetics.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\05.AppliedArithmetics\bin\Debug\net6.0\05.AppliedArithmetics.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\05.AppliedArithmetics\bin\Debug\net6.0\05.AppliedArithmetics.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\05.AppliedArithmetics\obj\Debug\net6.0\refint\05.AppliedArithmetics.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\05.AppliedArithmetics\obj\Debug\net6.0\ref\05.AppliedArithmetics.dll

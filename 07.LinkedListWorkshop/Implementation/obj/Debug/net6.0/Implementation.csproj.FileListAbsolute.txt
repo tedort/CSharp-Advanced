@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.LinkedListWorkshop\Implementation\bin\Debug\net6.0\Implementation.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.LinkedListWorkshop\Implementation\bin\Debug\net6.0\Implementation.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.LinkedListWorkshop\Implementation\bin\Debug\net6.0\Implementation.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.LinkedListWorkshop\Implementation\bin\Debug\net6.0\Implementation.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.LinkedListWorkshop\Implementation\bin\Debug\net6.0\Implementation.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.LinkedListWorkshop\Implementation\obj\Debug\net6.0\Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.LinkedListWorkshop\Implementation\obj\Debug\net6.0\Implementation.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.LinkedListWorkshop\Implementation\obj\Debug\net6.0\Implementation.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.LinkedListWorkshop\Implementation\obj\Debug\net6.0\Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.LinkedListWorkshop\Implementation\obj\Debug\net6.0\Implementation.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.LinkedListWorkshop\Implementation\obj\Debug\net6.0\refint\Implementation.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.LinkedListWorkshop\Implementation\obj\Debug\net6.0\Implementation.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.LinkedListWorkshop\Implementation\obj\Debug\net6.0\Implementation.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.LinkedListWorkshop\Implementation\obj\Debug\net6.0\ref\Implementation.dll

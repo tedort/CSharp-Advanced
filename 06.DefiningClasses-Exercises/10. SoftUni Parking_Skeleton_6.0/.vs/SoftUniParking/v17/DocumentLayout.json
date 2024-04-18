@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\Advanced\\06.DefiningClasses-Exercises\\10. SoftUni Parking_Skeleton_6.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAAD3DBB-F743-4A68-BAAB-F40EAEB1BB4D}|SoftUniParking.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\advanced\\06.definingclasses-exercises\\10. softuni parking_skeleton_6.0\\parking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAAD3DBB-F743-4A68-BAAB-F40EAEB1BB4D}|SoftUniParking.csproj|solutionrelative:parking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAAD3DBB-F743-4A68-BAAB-F40EAEB1BB4D}|SoftUniParking.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\advanced\\06.definingclasses-exercises\\10. softuni parking_skeleton_6.0\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAAD3DBB-F743-4A68-BAAB-F40EAEB1BB4D}|SoftUniParking.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAAD3DBB-F743-4A68-BAAB-F40EAEB1BB4D}|SoftUniParking.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\advanced\\06.definingclasses-exercises\\10. softuni parking_skeleton_6.0\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAAD3DBB-F743-4A68-BAAB-F40EAEB1BB4D}|SoftUniParking.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Parking.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\Advanced\\06.DefiningClasses-Exercises\\10. SoftUni Parking_Skeleton_6.0\\Parking.cs",
+              "RelativeDocumentMoniker": "Parking.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\Advanced\\06.DefiningClasses-Exercises\\10. SoftUni Parking_Skeleton_6.0\\Parking.cs",
+              "RelativeToolTip": "Parking.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwB8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T19:41:34.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\Advanced\\06.DefiningClasses-Exercises\\10. SoftUni Parking_Skeleton_6.0\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\Advanced\\06.DefiningClasses-Exercises\\10. SoftUni Parking_Skeleton_6.0\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T19:28:35.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\Advanced\\06.DefiningClasses-Exercises\\10. SoftUni Parking_Skeleton_6.0\\StartUp.cs",
+              "RelativeDocumentMoniker": "StartUp.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\Advanced\\06.DefiningClasses-Exercises\\10. SoftUni Parking_Skeleton_6.0\\StartUp.cs",
+              "RelativeToolTip": "StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T17:23:40.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

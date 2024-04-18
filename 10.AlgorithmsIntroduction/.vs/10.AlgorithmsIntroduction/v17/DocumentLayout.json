@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\Advanced\\10.AlgorithmsIntroduction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D23193D-733E-46AF-99AC-ED5D5A75F1B0}|BubbleSort\\BubbleSort.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\advanced\\10.algorithmsintroduction\\bubblesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D23193D-733E-46AF-99AC-ED5D5A75F1B0}|BubbleSort\\BubbleSort.csproj|solutionrelative:bubblesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F4D1C9-783D-48C4-8973-866A8DEA6C0E}|BinarySearch\\BinarySearch.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\advanced\\10.algorithmsintroduction\\binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F4D1C9-783D-48C4-8973-866A8DEA6C0E}|BinarySearch\\BinarySearch.csproj|solutionrelative:binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79EF4F4-00CE-4F96-A593-18FA61027C39}|LinearSearch\\LinearSearch.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\advanced\\10.algorithmsintroduction\\linearsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79EF4F4-00CE-4F96-A593-18FA61027C39}|LinearSearch\\LinearSearch.csproj|solutionrelative:linearsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\Advanced\\10.AlgorithmsIntroduction\\BubbleSort\\Program.cs",
+              "RelativeDocumentMoniker": "BubbleSort\\Program.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\Advanced\\10.AlgorithmsIntroduction\\BubbleSort\\Program.cs",
+              "RelativeToolTip": "BubbleSort\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T14:06:26.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\Advanced\\10.AlgorithmsIntroduction\\LinearSearch\\Program.cs",
+              "RelativeDocumentMoniker": "LinearSearch\\Program.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\Advanced\\10.AlgorithmsIntroduction\\LinearSearch\\Program.cs",
+              "RelativeToolTip": "LinearSearch\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T20:50:28.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\Advanced\\10.AlgorithmsIntroduction\\BinarySearch\\Program.cs",
+              "RelativeDocumentMoniker": "BinarySearch\\Program.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\Advanced\\10.AlgorithmsIntroduction\\BinarySearch\\Program.cs",
+              "RelativeToolTip": "BinarySearch\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T20:39:23.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

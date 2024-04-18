@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\08.Generics-Exercises\04.GenericSwapMethodIntegers\bin\Debug\net6.0\04.GenericSwapMethodIntegers.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\08.Generics-Exercises\04.GenericSwapMethodIntegers\bin\Debug\net6.0\04.GenericSwapMethodIntegers.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\08.Generics-Exercises\04.GenericSwapMethodIntegers\bin\Debug\net6.0\04.GenericSwapMethodIntegers.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\08.Generics-Exercises\04.GenericSwapMethodIntegers\bin\Debug\net6.0\04.GenericSwapMethodIntegers.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\08.Generics-Exercises\04.GenericSwapMethodIntegers\bin\Debug\net6.0\04.GenericSwapMethodIntegers.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\08.Generics-Exercises\04.GenericSwapMethodIntegers\obj\Debug\net6.0\04.GenericSwapMethodIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\08.Generics-Exercises\04.GenericSwapMethodIntegers\obj\Debug\net6.0\04.GenericSwapMethodIntegers.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\08.Generics-Exercises\04.GenericSwapMethodIntegers\obj\Debug\net6.0\04.GenericSwapMethodIntegers.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\08.Generics-Exercises\04.GenericSwapMethodIntegers\obj\Debug\net6.0\04.GenericSwapMethodIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\08.Generics-Exercises\04.GenericSwapMethodIntegers\obj\Debug\net6.0\04.GenericSwapMethodIntegers.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\08.Generics-Exercises\04.GenericSwapMethodIntegers\obj\Debug\net6.0\refint\04.GenericSwapMethodIntegers.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\08.Generics-Exercises\04.GenericSwapMethodIntegers\obj\Debug\net6.0\04.GenericSwapMethodIntegers.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\08.Generics-Exercises\04.GenericSwapMethodIntegers\obj\Debug\net6.0\04.GenericSwapMethodIntegers.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\08.Generics-Exercises\04.GenericSwapMethodIntegers\obj\Debug\net6.0\ref\04.GenericSwapMethodIntegers.dll

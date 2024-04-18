@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\RegularExam\01.ChickenSnack\bin\Debug\net6.0\01.ChickenSnack.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\RegularExam\01.ChickenSnack\bin\Debug\net6.0\01.ChickenSnack.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\RegularExam\01.ChickenSnack\bin\Debug\net6.0\01.ChickenSnack.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\RegularExam\01.ChickenSnack\bin\Debug\net6.0\01.ChickenSnack.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\RegularExam\01.ChickenSnack\bin\Debug\net6.0\01.ChickenSnack.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\RegularExam\01.ChickenSnack\obj\Debug\net6.0\01.ChickenSnack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\RegularExam\01.ChickenSnack\obj\Debug\net6.0\01.ChickenSnack.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\RegularExam\01.ChickenSnack\obj\Debug\net6.0\01.ChickenSnack.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\RegularExam\01.ChickenSnack\obj\Debug\net6.0\01.ChickenSnack.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\RegularExam\01.ChickenSnack\obj\Debug\net6.0\01.ChickenSnack.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\RegularExam\01.ChickenSnack\obj\Debug\net6.0\refint\01.ChickenSnack.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\RegularExam\01.ChickenSnack\obj\Debug\net6.0\01.ChickenSnack.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\RegularExam\01.ChickenSnack\obj\Debug\net6.0\01.ChickenSnack.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\RegularExam\01.ChickenSnack\obj\Debug\net6.0\ref\01.ChickenSnack.dll

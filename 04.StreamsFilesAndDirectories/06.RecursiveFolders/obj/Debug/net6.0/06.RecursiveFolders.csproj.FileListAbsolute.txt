@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\06.RecursiveFolders\bin\Debug\net6.0\06.RecursiveFolders.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\06.RecursiveFolders\bin\Debug\net6.0\06.RecursiveFolders.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\06.RecursiveFolders\bin\Debug\net6.0\06.RecursiveFolders.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\06.RecursiveFolders\bin\Debug\net6.0\06.RecursiveFolders.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\06.RecursiveFolders\bin\Debug\net6.0\06.RecursiveFolders.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\06.RecursiveFolders\obj\Debug\net6.0\06.RecursiveFolders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\06.RecursiveFolders\obj\Debug\net6.0\06.RecursiveFolders.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\06.RecursiveFolders\obj\Debug\net6.0\06.RecursiveFolders.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\06.RecursiveFolders\obj\Debug\net6.0\06.RecursiveFolders.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\06.RecursiveFolders\obj\Debug\net6.0\06.RecursiveFolders.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\06.RecursiveFolders\obj\Debug\net6.0\refint\06.RecursiveFolders.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\06.RecursiveFolders\obj\Debug\net6.0\06.RecursiveFolders.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\06.RecursiveFolders\obj\Debug\net6.0\06.RecursiveFolders.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\06.RecursiveFolders\obj\Debug\net6.0\ref\06.RecursiveFolders.dll

@@ -1,0 +1,28 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays-Exercises\02.SquaresInMatrix\bin\Debug\net6.0\02.SquaresInMatrix.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays-Exercises\02.SquaresInMatrix\bin\Debug\net6.0\02.SquaresInMatrix.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays-Exercises\02.SquaresInMatrix\bin\Debug\net6.0\02.SquaresInMatrix.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays-Exercises\02.SquaresInMatrix\bin\Debug\net6.0\02.SquaresInMatrix.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays-Exercises\02.SquaresInMatrix\bin\Debug\net6.0\02.SquaresInMatrix.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays-Exercises\02.SquaresInMatrix\obj\Debug\net6.0\02.SquaresInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays-Exercises\02.SquaresInMatrix\obj\Debug\net6.0\02.SquaresInMatrix.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays-Exercises\02.SquaresInMatrix\obj\Debug\net6.0\02.SquaresInMatrix.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays-Exercises\02.SquaresInMatrix\obj\Debug\net6.0\02.SquaresInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays-Exercises\02.SquaresInMatrix\obj\Debug\net6.0\02.SquaresInMatrix.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays-Exercises\02.SquaresInMatrix\obj\Debug\net6.0\refint\02.SquaresInMatrix.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays-Exercises\02.SquaresInMatrix\obj\Debug\net6.0\02.SquaresInMatrix.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays-Exercises\02.SquaresInMatrix\obj\Debug\net6.0\02.SquaresInMatrix.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays-Exercises\02.SquaresInMatrix\obj\Debug\net6.0\ref\02.SquaresInMatrix.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\02.MultidimensionalArrays-Exercises\02.SquaresInMatrix\bin\Debug\net6.0\02.SquaresInMatrix.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\02.MultidimensionalArrays-Exercises\02.SquaresInMatrix\bin\Debug\net6.0\02.SquaresInMatrix.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\02.MultidimensionalArrays-Exercises\02.SquaresInMatrix\bin\Debug\net6.0\02.SquaresInMatrix.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\02.MultidimensionalArrays-Exercises\02.SquaresInMatrix\bin\Debug\net6.0\02.SquaresInMatrix.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\02.MultidimensionalArrays-Exercises\02.SquaresInMatrix\bin\Debug\net6.0\02.SquaresInMatrix.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\02.MultidimensionalArrays-Exercises\02.SquaresInMatrix\obj\Debug\net6.0\02.SquaresInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\02.MultidimensionalArrays-Exercises\02.SquaresInMatrix\obj\Debug\net6.0\02.SquaresInMatrix.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\02.MultidimensionalArrays-Exercises\02.SquaresInMatrix\obj\Debug\net6.0\02.SquaresInMatrix.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\02.MultidimensionalArrays-Exercises\02.SquaresInMatrix\obj\Debug\net6.0\02.SquaresInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\02.MultidimensionalArrays-Exercises\02.SquaresInMatrix\obj\Debug\net6.0\02.SquaresInMatrix.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\02.MultidimensionalArrays-Exercises\02.SquaresInMatrix\obj\Debug\net6.0\refint\02.SquaresInMatrix.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\02.MultidimensionalArrays-Exercises\02.SquaresInMatrix\obj\Debug\net6.0\02.SquaresInMatrix.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\02.MultidimensionalArrays-Exercises\02.SquaresInMatrix\obj\Debug\net6.0\02.SquaresInMatrix.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\02.MultidimensionalArrays-Exercises\02.SquaresInMatrix\obj\Debug\net6.0\ref\02.SquaresInMatrix.dll

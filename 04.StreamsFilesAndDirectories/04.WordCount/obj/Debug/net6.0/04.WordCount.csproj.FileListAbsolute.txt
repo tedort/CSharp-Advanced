@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\04.WordCount\bin\Debug\net6.0\04.WordCount.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\04.WordCount\bin\Debug\net6.0\04.WordCount.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\04.WordCount\bin\Debug\net6.0\04.WordCount.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\04.WordCount\bin\Debug\net6.0\04.WordCount.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\04.WordCount\bin\Debug\net6.0\04.WordCount.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\04.WordCount\obj\Debug\net6.0\04.WordCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\04.WordCount\obj\Debug\net6.0\04.WordCount.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\04.WordCount\obj\Debug\net6.0\04.WordCount.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\04.WordCount\obj\Debug\net6.0\04.WordCount.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\04.WordCount\obj\Debug\net6.0\04.WordCount.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\04.WordCount\obj\Debug\net6.0\refint\04.WordCount.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\04.WordCount\obj\Debug\net6.0\04.WordCount.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\04.WordCount\obj\Debug\net6.0\04.WordCount.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\04.WordCount\obj\Debug\net6.0\ref\04.WordCount.dll

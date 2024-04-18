@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\09.IteratorsAndComparators\ComparableUniversity\bin\Debug\net6.0\ComparableUniversity.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\09.IteratorsAndComparators\ComparableUniversity\bin\Debug\net6.0\ComparableUniversity.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\09.IteratorsAndComparators\ComparableUniversity\bin\Debug\net6.0\ComparableUniversity.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\09.IteratorsAndComparators\ComparableUniversity\bin\Debug\net6.0\ComparableUniversity.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\09.IteratorsAndComparators\ComparableUniversity\bin\Debug\net6.0\ComparableUniversity.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\09.IteratorsAndComparators\ComparableUniversity\obj\Debug\net6.0\ComparableUniversity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\09.IteratorsAndComparators\ComparableUniversity\obj\Debug\net6.0\ComparableUniversity.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\09.IteratorsAndComparators\ComparableUniversity\obj\Debug\net6.0\ComparableUniversity.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\09.IteratorsAndComparators\ComparableUniversity\obj\Debug\net6.0\ComparableUniversity.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\09.IteratorsAndComparators\ComparableUniversity\obj\Debug\net6.0\ComparableUniversity.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\09.IteratorsAndComparators\ComparableUniversity\obj\Debug\net6.0\refint\ComparableUniversity.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\09.IteratorsAndComparators\ComparableUniversity\obj\Debug\net6.0\ComparableUniversity.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\09.IteratorsAndComparators\ComparableUniversity\obj\Debug\net6.0\ComparableUniversity.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\09.IteratorsAndComparators\ComparableUniversity\obj\Debug\net6.0\ref\ComparableUniversity.dll

@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\09.IteratorsAndComparators-Exercises\03.CustomStack\bin\Debug\net6.0\03.CustomStack.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\09.IteratorsAndComparators-Exercises\03.CustomStack\bin\Debug\net6.0\03.CustomStack.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\09.IteratorsAndComparators-Exercises\03.CustomStack\bin\Debug\net6.0\03.CustomStack.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\09.IteratorsAndComparators-Exercises\03.CustomStack\bin\Debug\net6.0\03.CustomStack.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\09.IteratorsAndComparators-Exercises\03.CustomStack\bin\Debug\net6.0\03.CustomStack.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\09.IteratorsAndComparators-Exercises\03.CustomStack\obj\Debug\net6.0\03.CustomStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\09.IteratorsAndComparators-Exercises\03.CustomStack\obj\Debug\net6.0\03.CustomStack.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\09.IteratorsAndComparators-Exercises\03.CustomStack\obj\Debug\net6.0\03.CustomStack.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\09.IteratorsAndComparators-Exercises\03.CustomStack\obj\Debug\net6.0\03.CustomStack.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\09.IteratorsAndComparators-Exercises\03.CustomStack\obj\Debug\net6.0\03.CustomStack.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\09.IteratorsAndComparators-Exercises\03.CustomStack\obj\Debug\net6.0\refint\03.CustomStack.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\09.IteratorsAndComparators-Exercises\03.CustomStack\obj\Debug\net6.0\03.CustomStack.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\09.IteratorsAndComparators-Exercises\03.CustomStack\obj\Debug\net6.0\03.CustomStack.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\09.IteratorsAndComparators-Exercises\03.CustomStack\obj\Debug\net6.0\ref\03.CustomStack.dll

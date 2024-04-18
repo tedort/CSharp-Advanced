@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\BubbleSort\bin\Debug\net6.0\BubbleSort.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\BubbleSort\bin\Debug\net6.0\BubbleSort.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\BubbleSort\bin\Debug\net6.0\BubbleSort.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\BubbleSort\bin\Debug\net6.0\BubbleSort.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\BubbleSort\bin\Debug\net6.0\BubbleSort.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\BubbleSort\obj\Debug\net6.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\BubbleSort\obj\Debug\net6.0\BubbleSort.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\BubbleSort\obj\Debug\net6.0\refint\BubbleSort.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\BubbleSort\obj\Debug\net6.0\BubbleSort.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\BubbleSort\obj\Debug\net6.0\BubbleSort.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\BubbleSort\obj\Debug\net6.0\ref\BubbleSort.dll

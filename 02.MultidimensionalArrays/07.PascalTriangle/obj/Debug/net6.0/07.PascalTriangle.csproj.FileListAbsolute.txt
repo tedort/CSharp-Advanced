@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\07.PascalTriangle\bin\Debug\net6.0\07.PascalTriangle.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\07.PascalTriangle\bin\Debug\net6.0\07.PascalTriangle.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\07.PascalTriangle\bin\Debug\net6.0\07.PascalTriangle.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\07.PascalTriangle\bin\Debug\net6.0\07.PascalTriangle.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\07.PascalTriangle\bin\Debug\net6.0\07.PascalTriangle.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\07.PascalTriangle\obj\Debug\net6.0\07.PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\07.PascalTriangle\obj\Debug\net6.0\07.PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\07.PascalTriangle\obj\Debug\net6.0\07.PascalTriangle.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\07.PascalTriangle\obj\Debug\net6.0\07.PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\07.PascalTriangle\obj\Debug\net6.0\07.PascalTriangle.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\07.PascalTriangle\obj\Debug\net6.0\refint\07.PascalTriangle.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\07.PascalTriangle\obj\Debug\net6.0\07.PascalTriangle.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\07.PascalTriangle\obj\Debug\net6.0\07.PascalTriangle.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\07.PascalTriangle\obj\Debug\net6.0\ref\07.PascalTriangle.dll

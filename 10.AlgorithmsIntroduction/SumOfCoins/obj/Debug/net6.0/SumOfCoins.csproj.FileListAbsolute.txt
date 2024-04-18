@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\SumOfCoins\bin\Debug\net6.0\SumOfCoins.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\SumOfCoins\bin\Debug\net6.0\SumOfCoins.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\SumOfCoins\bin\Debug\net6.0\SumOfCoins.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\SumOfCoins\bin\Debug\net6.0\SumOfCoins.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\SumOfCoins\bin\Debug\net6.0\SumOfCoins.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\SumOfCoins\obj\Debug\net6.0\SumOfCoins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\SumOfCoins\obj\Debug\net6.0\SumOfCoins.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\SumOfCoins\obj\Debug\net6.0\SumOfCoins.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\SumOfCoins\obj\Debug\net6.0\SumOfCoins.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\SumOfCoins\obj\Debug\net6.0\SumOfCoins.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\SumOfCoins\obj\Debug\net6.0\refint\SumOfCoins.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\SumOfCoins\obj\Debug\net6.0\SumOfCoins.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\SumOfCoins\obj\Debug\net6.0\SumOfCoins.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\SumOfCoins\obj\Debug\net6.0\ref\SumOfCoins.dll

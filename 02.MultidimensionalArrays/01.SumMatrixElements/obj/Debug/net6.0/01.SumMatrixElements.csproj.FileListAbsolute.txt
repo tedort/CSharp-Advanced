@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\01.SumMatrixElements\bin\Debug\net6.0\01.SumMatrixElements.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\01.SumMatrixElements\bin\Debug\net6.0\01.SumMatrixElements.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\01.SumMatrixElements\bin\Debug\net6.0\01.SumMatrixElements.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\01.SumMatrixElements\bin\Debug\net6.0\01.SumMatrixElements.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\01.SumMatrixElements\bin\Debug\net6.0\01.SumMatrixElements.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\01.SumMatrixElements\obj\Debug\net6.0\refint\01.SumMatrixElements.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\01.SumMatrixElements\obj\Debug\net6.0\ref\01.SumMatrixElements.dll

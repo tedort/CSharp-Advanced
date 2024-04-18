@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming\CountUppercaseWords\bin\Debug\net6.0\CountUppercaseWords.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming\CountUppercaseWords\bin\Debug\net6.0\CountUppercaseWords.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming\CountUppercaseWords\bin\Debug\net6.0\CountUppercaseWords.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming\CountUppercaseWords\bin\Debug\net6.0\CountUppercaseWords.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming\CountUppercaseWords\bin\Debug\net6.0\CountUppercaseWords.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming\CountUppercaseWords\obj\Debug\net6.0\CountUppercaseWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming\CountUppercaseWords\obj\Debug\net6.0\CountUppercaseWords.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming\CountUppercaseWords\obj\Debug\net6.0\CountUppercaseWords.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming\CountUppercaseWords\obj\Debug\net6.0\CountUppercaseWords.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming\CountUppercaseWords\obj\Debug\net6.0\CountUppercaseWords.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming\CountUppercaseWords\obj\Debug\net6.0\refint\CountUppercaseWords.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming\CountUppercaseWords\obj\Debug\net6.0\CountUppercaseWords.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming\CountUppercaseWords\obj\Debug\net6.0\CountUppercaseWords.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming\CountUppercaseWords\obj\Debug\net6.0\ref\CountUppercaseWords.dll

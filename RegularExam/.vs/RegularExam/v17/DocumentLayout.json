@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\Advanced\\RegularExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E68988BA-CFFD-4A59-B953-8145A0A45E45}|02.ClearSkies\\02.ClearSkies.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\advanced\\regularexam\\02.clearskies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68988BA-CFFD-4A59-B953-8145A0A45E45}|02.ClearSkies\\02.ClearSkies.csproj|solutionrelative:02.clearskies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF549CC-B5B9-4474-B54F-6D1FC904E2E7}|01.ChickenSnack\\01.ChickenSnack.csproj|c:\\users\\teodor todorov\\desktop\\softuni\\advanced\\regularexam\\01.chickensnack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF549CC-B5B9-4474-B54F-6D1FC904E2E7}|01.ChickenSnack\\01.ChickenSnack.csproj|solutionrelative:01.chickensnack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\Advanced\\RegularExam\\02.ClearSkies\\Program.cs",
+              "RelativeDocumentMoniker": "02.ClearSkies\\Program.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\Advanced\\RegularExam\\02.ClearSkies\\Program.cs",
+              "RelativeToolTip": "02.ClearSkies\\Program.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAIwG8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T08:05:51.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\Advanced\\RegularExam\\01.ChickenSnack\\Program.cs",
+              "RelativeDocumentMoniker": "01.ChickenSnack\\Program.cs",
+              "ToolTip": "C:\\Users\\Teodor Todorov\\Desktop\\SoftUni\\Advanced\\RegularExam\\01.ChickenSnack\\Program.cs",
+              "RelativeToolTip": "01.ChickenSnack\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T07:22:46.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

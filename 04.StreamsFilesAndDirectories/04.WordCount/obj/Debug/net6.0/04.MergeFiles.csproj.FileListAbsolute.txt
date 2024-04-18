@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\04.WordCount\bin\Debug\net6.0\04.MergeFiles.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\04.WordCount\bin\Debug\net6.0\04.MergeFiles.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\04.WordCount\bin\Debug\net6.0\04.MergeFiles.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\04.WordCount\bin\Debug\net6.0\04.MergeFiles.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\04.WordCount\bin\Debug\net6.0\04.MergeFiles.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\04.WordCount\obj\Debug\net6.0\04.MergeFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\04.WordCount\obj\Debug\net6.0\04.MergeFiles.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\04.WordCount\obj\Debug\net6.0\04.MergeFiles.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\04.WordCount\obj\Debug\net6.0\04.MergeFiles.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\04.WordCount\obj\Debug\net6.0\04.MergeFiles.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\04.WordCount\obj\Debug\net6.0\refint\04.MergeFiles.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\04.WordCount\obj\Debug\net6.0\04.MergeFiles.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\04.WordCount\obj\Debug\net6.0\04.MergeFiles.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\04.StreamsFilesAndDirectories\04.WordCount\obj\Debug\net6.0\ref\04.MergeFiles.dll

@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\06.DefiningClasses-Exercises\06.SpeedRacing\bin\Debug\net6.0\06.SpeedRacing.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\06.DefiningClasses-Exercises\06.SpeedRacing\bin\Debug\net6.0\06.SpeedRacing.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\06.DefiningClasses-Exercises\06.SpeedRacing\bin\Debug\net6.0\06.SpeedRacing.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\06.DefiningClasses-Exercises\06.SpeedRacing\bin\Debug\net6.0\06.SpeedRacing.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\06.DefiningClasses-Exercises\06.SpeedRacing\bin\Debug\net6.0\06.SpeedRacing.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\06.DefiningClasses-Exercises\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\06.DefiningClasses-Exercises\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\06.DefiningClasses-Exercises\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\06.DefiningClasses-Exercises\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\06.DefiningClasses-Exercises\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\06.DefiningClasses-Exercises\06.SpeedRacing\obj\Debug\net6.0\refint\06.SpeedRacing.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\06.DefiningClasses-Exercises\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\06.DefiningClasses-Exercises\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\06.DefiningClasses-Exercises\06.SpeedRacing\obj\Debug\net6.0\ref\06.SpeedRacing.dll

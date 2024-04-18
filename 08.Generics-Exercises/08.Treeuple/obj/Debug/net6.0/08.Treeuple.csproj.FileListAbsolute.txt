@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\08.Generics-Exercises\08.Treeuple\bin\Debug\net6.0\08.Treeuple.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\08.Generics-Exercises\08.Treeuple\bin\Debug\net6.0\08.Treeuple.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\08.Generics-Exercises\08.Treeuple\bin\Debug\net6.0\08.Treeuple.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\08.Generics-Exercises\08.Treeuple\bin\Debug\net6.0\08.Treeuple.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\08.Generics-Exercises\08.Treeuple\bin\Debug\net6.0\08.Treeuple.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\08.Generics-Exercises\08.Treeuple\obj\Debug\net6.0\08.Treeuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\08.Generics-Exercises\08.Treeuple\obj\Debug\net6.0\08.Treeuple.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\08.Generics-Exercises\08.Treeuple\obj\Debug\net6.0\08.Treeuple.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\08.Generics-Exercises\08.Treeuple\obj\Debug\net6.0\08.Treeuple.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\08.Generics-Exercises\08.Treeuple\obj\Debug\net6.0\08.Treeuple.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\08.Generics-Exercises\08.Treeuple\obj\Debug\net6.0\refint\08.Treeuple.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\08.Generics-Exercises\08.Treeuple\obj\Debug\net6.0\08.Treeuple.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\08.Generics-Exercises\08.Treeuple\obj\Debug\net6.0\08.Treeuple.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\08.Generics-Exercises\08.Treeuple\obj\Debug\net6.0\ref\08.Treeuple.dll

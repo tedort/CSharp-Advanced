@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.StackAndQueueWorkshop\ImplementingStackAndQueue\bin\Debug\net6.0\ImplementingStackAndQueue.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.StackAndQueueWorkshop\ImplementingStackAndQueue\bin\Debug\net6.0\ImplementingStackAndQueue.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.StackAndQueueWorkshop\ImplementingStackAndQueue\bin\Debug\net6.0\ImplementingStackAndQueue.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.StackAndQueueWorkshop\ImplementingStackAndQueue\bin\Debug\net6.0\ImplementingStackAndQueue.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.StackAndQueueWorkshop\ImplementingStackAndQueue\bin\Debug\net6.0\ImplementingStackAndQueue.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.StackAndQueueWorkshop\ImplementingStackAndQueue\obj\Debug\net6.0\ImplementingStackAndQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.StackAndQueueWorkshop\ImplementingStackAndQueue\obj\Debug\net6.0\ImplementingStackAndQueue.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.StackAndQueueWorkshop\ImplementingStackAndQueue\obj\Debug\net6.0\ImplementingStackAndQueue.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.StackAndQueueWorkshop\ImplementingStackAndQueue\obj\Debug\net6.0\ImplementingStackAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.StackAndQueueWorkshop\ImplementingStackAndQueue\obj\Debug\net6.0\ImplementingStackAndQueue.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.StackAndQueueWorkshop\ImplementingStackAndQueue\obj\Debug\net6.0\refint\ImplementingStackAndQueue.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.StackAndQueueWorkshop\ImplementingStackAndQueue\obj\Debug\net6.0\ImplementingStackAndQueue.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.StackAndQueueWorkshop\ImplementingStackAndQueue\obj\Debug\net6.0\ImplementingStackAndQueue.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.StackAndQueueWorkshop\ImplementingStackAndQueue\obj\Debug\net6.0\ref\ImplementingStackAndQueue.dll

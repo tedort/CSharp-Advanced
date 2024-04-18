@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\09.PredicateParty\bin\Debug\net6.0\09.PredicateParty.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\09.PredicateParty\bin\Debug\net6.0\09.PredicateParty.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\09.PredicateParty\bin\Debug\net6.0\09.PredicateParty.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\09.PredicateParty\bin\Debug\net6.0\09.PredicateParty.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\09.PredicateParty\bin\Debug\net6.0\09.PredicateParty.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\09.PredicateParty\obj\Debug\net6.0\09.PredicateParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\09.PredicateParty\obj\Debug\net6.0\09.PredicateParty.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\09.PredicateParty\obj\Debug\net6.0\09.PredicateParty.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\09.PredicateParty\obj\Debug\net6.0\09.PredicateParty.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\09.PredicateParty\obj\Debug\net6.0\09.PredicateParty.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\09.PredicateParty\obj\Debug\net6.0\refint\09.PredicateParty.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\09.PredicateParty\obj\Debug\net6.0\09.PredicateParty.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\09.PredicateParty\obj\Debug\net6.0\09.PredicateParty.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\09.PredicateParty\obj\Debug\net6.0\ref\09.PredicateParty.dll

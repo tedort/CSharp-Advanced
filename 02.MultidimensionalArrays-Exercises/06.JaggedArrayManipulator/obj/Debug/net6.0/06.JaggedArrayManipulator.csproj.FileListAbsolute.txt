@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\02.MultidimensionalArrays-Exercises\06.JaggedArrayManipulator\bin\Debug\net6.0\06.JaggedArrayManipulator.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\02.MultidimensionalArrays-Exercises\06.JaggedArrayManipulator\bin\Debug\net6.0\06.JaggedArrayManipulator.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\02.MultidimensionalArrays-Exercises\06.JaggedArrayManipulator\bin\Debug\net6.0\06.JaggedArrayManipulator.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\02.MultidimensionalArrays-Exercises\06.JaggedArrayManipulator\bin\Debug\net6.0\06.JaggedArrayManipulator.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\02.MultidimensionalArrays-Exercises\06.JaggedArrayManipulator\bin\Debug\net6.0\06.JaggedArrayManipulator.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\02.MultidimensionalArrays-Exercises\06.JaggedArrayManipulator\obj\Debug\net6.0\06.JaggedArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\02.MultidimensionalArrays-Exercises\06.JaggedArrayManipulator\obj\Debug\net6.0\06.JaggedArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\02.MultidimensionalArrays-Exercises\06.JaggedArrayManipulator\obj\Debug\net6.0\06.JaggedArrayManipulator.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\02.MultidimensionalArrays-Exercises\06.JaggedArrayManipulator\obj\Debug\net6.0\06.JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\02.MultidimensionalArrays-Exercises\06.JaggedArrayManipulator\obj\Debug\net6.0\06.JaggedArrayManipulator.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\02.MultidimensionalArrays-Exercises\06.JaggedArrayManipulator\obj\Debug\net6.0\refint\06.JaggedArrayManipulator.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\02.MultidimensionalArrays-Exercises\06.JaggedArrayManipulator\obj\Debug\net6.0\06.JaggedArrayManipulator.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\02.MultidimensionalArrays-Exercises\06.JaggedArrayManipulator\obj\Debug\net6.0\06.JaggedArrayManipulator.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\02.MultidimensionalArrays-Exercises\06.JaggedArrayManipulator\obj\Debug\net6.0\ref\06.JaggedArrayManipulator.dll

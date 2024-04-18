@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\InsertionSort\bin\Debug\net6.0\InsertionSort.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\InsertionSort\bin\Debug\net6.0\InsertionSort.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\InsertionSort\bin\Debug\net6.0\InsertionSort.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\InsertionSort\bin\Debug\net6.0\InsertionSort.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\InsertionSort\bin\Debug\net6.0\InsertionSort.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\InsertionSort\obj\Debug\net6.0\InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\InsertionSort\obj\Debug\net6.0\InsertionSort.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\InsertionSort\obj\Debug\net6.0\InsertionSort.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\InsertionSort\obj\Debug\net6.0\InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\InsertionSort\obj\Debug\net6.0\InsertionSort.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\InsertionSort\obj\Debug\net6.0\refint\InsertionSort.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\InsertionSort\obj\Debug\net6.0\InsertionSort.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\InsertionSort\obj\Debug\net6.0\InsertionSort.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\10.AlgorithmsIntroduction\InsertionSort\obj\Debug\net6.0\ref\InsertionSort.dll

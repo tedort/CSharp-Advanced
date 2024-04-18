@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.LinkedListWorkshop\StackAndQueue\bin\Debug\net6.0\StackAndQueue.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.LinkedListWorkshop\StackAndQueue\bin\Debug\net6.0\StackAndQueue.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.LinkedListWorkshop\StackAndQueue\bin\Debug\net6.0\StackAndQueue.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.LinkedListWorkshop\StackAndQueue\bin\Debug\net6.0\StackAndQueue.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.LinkedListWorkshop\StackAndQueue\bin\Debug\net6.0\StackAndQueue.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.LinkedListWorkshop\StackAndQueue\obj\Debug\net6.0\StackAndQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.LinkedListWorkshop\StackAndQueue\obj\Debug\net6.0\StackAndQueue.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.LinkedListWorkshop\StackAndQueue\obj\Debug\net6.0\StackAndQueue.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.LinkedListWorkshop\StackAndQueue\obj\Debug\net6.0\StackAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.LinkedListWorkshop\StackAndQueue\obj\Debug\net6.0\StackAndQueue.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.LinkedListWorkshop\StackAndQueue\obj\Debug\net6.0\refint\StackAndQueue.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.LinkedListWorkshop\StackAndQueue\obj\Debug\net6.0\StackAndQueue.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.LinkedListWorkshop\StackAndQueue\obj\Debug\net6.0\StackAndQueue.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\07.LinkedListWorkshop\StackAndQueue\obj\Debug\net6.0\ref\StackAndQueue.dll

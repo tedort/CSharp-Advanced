@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\10.PartyReservationFilterModule\bin\Debug\net6.0\10.PartyReservationFilterModule.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\10.PartyReservationFilterModule\bin\Debug\net6.0\10.PartyReservationFilterModule.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\10.PartyReservationFilterModule\bin\Debug\net6.0\10.PartyReservationFilterModule.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\10.PartyReservationFilterModule\bin\Debug\net6.0\10.PartyReservationFilterModule.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\10.PartyReservationFilterModule\bin\Debug\net6.0\10.PartyReservationFilterModule.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\10.PartyReservationFilterModule\obj\Debug\net6.0\10.PartyReservationFilterModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\10.PartyReservationFilterModule\obj\Debug\net6.0\10.PartyReservationFilterModule.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\10.PartyReservationFilterModule\obj\Debug\net6.0\10.PartyReservationFilterModule.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\10.PartyReservationFilterModule\obj\Debug\net6.0\10.PartyReservationFilterModule.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\10.PartyReservationFilterModule\obj\Debug\net6.0\10.PartyReservationFilterModule.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\10.PartyReservationFilterModule\obj\Debug\net6.0\refint\10.PartyReservationFilterModule.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\10.PartyReservationFilterModule\obj\Debug\net6.0\10.PartyReservationFilterModule.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\10.PartyReservationFilterModule\obj\Debug\net6.0\10.PartyReservationFilterModule.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\05.FunctionalProgramming-Exercises\10.PartyReservationFilterModule\obj\Debug\net6.0\ref\10.PartyReservationFilterModule.dll

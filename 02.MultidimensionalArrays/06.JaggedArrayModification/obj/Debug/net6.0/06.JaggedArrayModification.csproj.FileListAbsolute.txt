@@ -1,0 +1,14 @@
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\06.JaggedArrayModification\bin\Debug\net6.0\06.JaggedArrayModification.exe
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\06.JaggedArrayModification\bin\Debug\net6.0\06.JaggedArrayModification.deps.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\06.JaggedArrayModification\bin\Debug\net6.0\06.JaggedArrayModification.runtimeconfig.json
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\06.JaggedArrayModification\bin\Debug\net6.0\06.JaggedArrayModification.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\06.JaggedArrayModification\bin\Debug\net6.0\06.JaggedArrayModification.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\06.JaggedArrayModification\obj\Debug\net6.0\06.JaggedArrayModification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\06.JaggedArrayModification\obj\Debug\net6.0\06.JaggedArrayModification.AssemblyInfoInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\06.JaggedArrayModification\obj\Debug\net6.0\06.JaggedArrayModification.AssemblyInfo.cs
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\06.JaggedArrayModification\obj\Debug\net6.0\06.JaggedArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\06.JaggedArrayModification\obj\Debug\net6.0\06.JaggedArrayModification.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\06.JaggedArrayModification\obj\Debug\net6.0\refint\06.JaggedArrayModification.dll
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\06.JaggedArrayModification\obj\Debug\net6.0\06.JaggedArrayModification.pdb
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\06.JaggedArrayModification\obj\Debug\net6.0\06.JaggedArrayModification.genruntimeconfig.cache
+C:\Users\Teodor Todorov\Desktop\SoftUni\Advanced\Multidimensional Arrays\06.JaggedArrayModification\obj\Debug\net6.0\ref\06.JaggedArrayModification.dll
